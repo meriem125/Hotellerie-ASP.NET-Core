@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|c:\\users\\meriem\\source\\repos\\hotelleriemariem\\hotelleriemariem\\controllers\\appreciationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|solutionrelative:hotelleriemariem\\controllers\\appreciationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|c:\\users\\meriem\\source\\repos\\hotelleriemariem\\hotelleriemariem\\models\\hotelleriemodel\\hotelleriedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|solutionrelative:hotelleriemariem\\models\\hotelleriemodel\\hotelleriedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|c:\\users\\meriem\\source\\repos\\hotelleriemariem\\hotelleriemariem\\views\\hotels\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|solutionrelative:hotelleriemariem\\views\\hotels\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|c:\\users\\meriem\\source\\repos\\hotelleriemariem\\hotelleriemariem\\models\\hotelleriemodel\\appreciation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|solutionrelative:hotelleriemariem\\models\\hotelleriemodel\\appreciation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|c:\\users\\meriem\\source\\repos\\hotelleriemariem\\hotelleriemariem\\models\\hotelleriemodel\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|solutionrelative:hotelleriemariem\\models\\hotelleriemodel\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|c:\\users\\meriem\\source\\repos\\hotelleriemariem\\hotelleriemariem\\migrations\\20261018225505_ajoutnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|solutionrelative:hotelleriemariem\\migrations\\20261018225505_ajoutnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|c:\\users\\meriem\\source\\repos\\hotelleriemariem\\hotelleriemariem\\migrations\\20261018224626_ajoutappreciation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|solutionrelative:hotelleriemariem\\migrations\\20261018224626_ajoutappreciation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|c:\\users\\meriem\\source\\repos\\hotelleriemariem\\hotelleriemariem\\migrations\\20261018230643_addpayshotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|solutionrelative:hotelleriemariem\\migrations\\20261018230643_addpayshotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|c:\\users\\meriem\\source\\repos\\hotelleriemariem\\hotelleriemariem\\migrations\\20261018224340_ajouttel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|solutionrelative:hotelleriemariem\\migrations\\20261018224340_ajouttel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|c:\\users\\meriem\\source\\repos\\hotelleriemariem\\hotelleriemariem\\hotelleriemariem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|solutionrelative:hotelleriemariem\\hotelleriemariem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|c:\\users\\meriem\\source\\repos\\hotelleriemariem\\hotelleriemariem\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|solutionrelative:hotelleriemariem\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|c:\\users\\meriem\\source\\repos\\hotelleriemariem\\hotelleriemariem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|solutionrelative:hotelleriemariem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|c:\\users\\meriem\\source\\repos\\hotelleriemariem\\hotelleriemariem\\migrations\\20261018220823_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|solutionrelative:hotelleriemariem\\migrations\\20261018220823_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|c:\\users\\meriem\\source\\repos\\hotelleriemariem\\hotelleriemariem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|solutionrelative:hotelleriemariem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|c:\\users\\meriem\\source\\repos\\hotelleriemariem\\hotelleriemariem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|solutionrelative:hotelleriemariem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|c:\\users\\meriem\\source\\repos\\hotelleriemariem\\hotelleriemariem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|solutionrelative:hotelleriemariem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|c:\\users\\meriem\\source\\repos\\hotelleriemariem\\hotelleriemariem\\hotelleriemariem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D4CD6E46-D08E-915D-C7D8-056FAEA1D9B4}|HotellerieMariem\\HotellerieMariem.csproj|solutionrelative:hotelleriemariem\\hotelleriemariem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Views\\Hotels\\Create.cshtml",
+              "RelativeDocumentMoniker": "HotellerieMariem\\Views\\Hotels\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Views\\Hotels\\Create.cshtml",
+              "RelativeToolTip": "HotellerieMariem\\Views\\Hotels\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T00:14:00.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppreciationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Controllers\\AppreciationsController.cs",
+              "RelativeDocumentMoniker": "HotellerieMariem\\Controllers\\AppreciationsController.cs",
+              "ToolTip": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Controllers\\AppreciationsController.cs",
+              "RelativeToolTip": "HotellerieMariem\\Controllers\\AppreciationsController.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAwJIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T00:03:38.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20261018225505_AjoutNote.cs",
+              "DocumentMoniker": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Migrations\\20261018225505_AjoutNote.cs",
+              "RelativeDocumentMoniker": "HotellerieMariem\\Migrations\\20261018225505_AjoutNote.cs",
+              "ToolTip": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Migrations\\20261018225505_AjoutNote.cs",
+              "RelativeToolTip": "HotellerieMariem\\Migrations\\20261018225505_AjoutNote.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T22:55:05.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Models\\HotellerieModel\\Hotel.cs",
+              "RelativeDocumentMoniker": "HotellerieMariem\\Models\\HotellerieModel\\Hotel.cs",
+              "ToolTip": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Models\\HotellerieModel\\Hotel.cs",
+              "RelativeToolTip": "HotellerieMariem\\Models\\HotellerieModel\\Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T22:05:49.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotellerieDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Models\\HotellerieModel\\HotellerieDbContext.cs",
+              "RelativeDocumentMoniker": "HotellerieMariem\\Models\\HotellerieModel\\HotellerieDbContext.cs",
+              "ToolTip": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Models\\HotellerieModel\\HotellerieDbContext.cs",
+              "RelativeToolTip": "HotellerieMariem\\Models\\HotellerieModel\\HotellerieDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T22:06:17.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20261018224626_ajoutAppreciation.cs",
+              "DocumentMoniker": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Migrations\\20261018224626_ajoutAppreciation.cs",
+              "RelativeDocumentMoniker": "HotellerieMariem\\Migrations\\20261018224626_ajoutAppreciation.cs",
+              "ToolTip": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Migrations\\20261018224626_ajoutAppreciation.cs",
+              "RelativeToolTip": "HotellerieMariem\\Migrations\\20261018224626_ajoutAppreciation.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T22:46:26.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20261018230643_AddPaysHotel.cs",
+              "DocumentMoniker": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Migrations\\20261018230643_AddPaysHotel.cs",
+              "RelativeDocumentMoniker": "HotellerieMariem\\Migrations\\20261018230643_AddPaysHotel.cs",
+              "ToolTip": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Migrations\\20261018230643_AddPaysHotel.cs",
+              "RelativeToolTip": "HotellerieMariem\\Migrations\\20261018230643_AddPaysHotel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T23:06:43.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appreciation.cs",
+              "DocumentMoniker": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Models\\HotellerieModel\\Appreciation.cs",
+              "RelativeDocumentMoniker": "HotellerieMariem\\Models\\HotellerieModel\\Appreciation.cs",
+              "ToolTip": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Models\\HotellerieModel\\Appreciation.cs",
+              "RelativeToolTip": "HotellerieMariem\\Models\\HotellerieModel\\Appreciation.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T22:45:56.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20261018224340_ajoutTel.cs",
+              "DocumentMoniker": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Migrations\\20261018224340_ajoutTel.cs",
+              "RelativeDocumentMoniker": "HotellerieMariem\\Migrations\\20261018224340_ajoutTel.cs",
+              "ToolTip": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Migrations\\20261018224340_ajoutTel.cs",
+              "RelativeToolTip": "HotellerieMariem\\Migrations\\20261018224340_ajoutTel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T22:43:40.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HotelsController.cs",
+              "DocumentMoniker": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Controllers\\HotelsController.cs",
+              "RelativeDocumentMoniker": "HotellerieMariem\\Controllers\\HotelsController.cs",
+              "ToolTip": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Controllers\\HotelsController.cs",
+              "RelativeToolTip": "HotellerieMariem\\Controllers\\HotelsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T22:15:55.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HotellerieMariem.csproj",
+              "DocumentMoniker": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\HotellerieMariem.csproj",
+              "RelativeDocumentMoniker": "HotellerieMariem\\HotellerieMariem.csproj",
+              "ToolTip": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\HotellerieMariem.csproj",
+              "RelativeToolTip": "HotellerieMariem\\HotellerieMariem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-18T21:40:12.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HotellerieMariem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HotellerieMariem\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T22:30:07.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20261018220823_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Migrations\\20261018220823_InitialCreate.cs",
+              "RelativeDocumentMoniker": "HotellerieMariem\\Migrations\\20261018220823_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Migrations\\20261018220823_InitialCreate.cs",
+              "RelativeToolTip": "HotellerieMariem\\Migrations\\20261018220823_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T22:08:23.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Program.cs",
+              "RelativeDocumentMoniker": "HotellerieMariem\\Program.cs",
+              "ToolTip": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Program.cs",
+              "RelativeToolTip": "HotellerieMariem\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T22:06:59.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HotellerieMariem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HotellerieMariem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-18T22:19:51.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\appsettings.json",
+              "RelativeDocumentMoniker": "HotellerieMariem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\appsettings.json",
+              "RelativeToolTip": "HotellerieMariem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-18T22:06:35.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HotellerieMariem",
+              "DocumentMoniker": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\HotellerieMariem.csproj",
+              "RelativeDocumentMoniker": "HotellerieMariem\\HotellerieMariem.csproj",
+              "ToolTip": "C:\\Users\\Meriem\\source\\repos\\HotellerieMariem\\HotellerieMariem\\HotellerieMariem.csproj",
+              "RelativeToolTip": "HotellerieMariem\\HotellerieMariem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-18T21:39:49.275Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
